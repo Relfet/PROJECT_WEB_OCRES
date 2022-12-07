@@ -1,16 +1,15 @@
-# Frontend
+Ryan EL FETOUAKI
+Rayan BENSENOUCI
 
-Ce dossier contiendra la partie frontend de votre projet.
+Nous avions débuter en voulant faire un dashboard sur la coupe du monde actuelle de football. Cependant il était compliquer pour nous de trouver et de nous connecter à une api gratuite qui puisse nous donner les résultats en direct ce qui à mis en péril cette première sur laquelle nous avions dépenser pas mal de temps.
 
-Le frontend à été initalisé avec un create-react-app et storybook y est deja installé avec un exemple de stories que vous trouverez dans le repertoire `src/stories`.
+Suite à cela nous nous sommes dis que nous allions réaliser un dahsboard qui serait propre à nous même, où nous pourrions avoir des éléments personnalisables, au moins une api fun et des widgets utiles tels que la date, l'heure, la météo...
 
-Pour commencer utiliser la commande ```yarn``` dans le terminal une fois que vous etes dans 'frontend'.
+Ryan: 
+Je me suis occupé de la connections aux api, du graphe, de l'organisation du code en général et de la mise en forme du site.
 
-Storybook est là pour vous aider à prototyper et documenter vos composants. Si nous n'arrivons pas à lancer votre projet, nous pourrons au moins regarder vos composants en fonctionnement.
-Le dossier src/stories sert de modèle et est a remplacer par vos widgets.
+Rayan: Je me suis occupé du figma pour schématiser le dashboard, ainsi que de certains widgets tels que l'heure, la date et le slider. J'ai également essayer de m'occuper du backend.
 
-## Documentation
+Voici nos wireframe: 
 
-Vous pourrez supprimer le contenu de ce README et vous l'approprier en y notant les éléments importants de votre projet. Il est très important de bien documenter un projet !
-
-Inspirez-vous des grands repos open sources qui existent sur github. Les informations qui reviennent souvent sont une description du projet (pourquoi, comment...), la maniere de lancer le projet et eventuellement d'y contribuer, une documentation sur des éléments que vous voulez mettre en avant et pour finir les noms des contributeurs.
+https://www.figma.com/file/750ech74xXANCh9dy2hPQ0/Untitled?node-id=0%3A1&t=1Jra6Odn1x4uI4Y0-0

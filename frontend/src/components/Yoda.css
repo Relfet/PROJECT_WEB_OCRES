@@ -1,0 +1,14 @@
+.Traduit {
+    text-align: center;
+    background-color: #233357;
+    color: #ffffff;
+    width: 90%;
+    min-width: 450px;
+    height: 300px
+}
+
+.bar{
+  font-size: large;
+  text-align: center;
+  width: 70%;
+}

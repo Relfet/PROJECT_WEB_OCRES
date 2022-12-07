@@ -1,3 +1,33 @@
+body{
+  background-color: #161842;
+}
+
 .App {
   text-align: center;
+  background-color: #161842;
+  color: #ffffff;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.case1{
+  background-color: #161842;
+  color: #ffffff;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.case3{
+  margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.case4{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
